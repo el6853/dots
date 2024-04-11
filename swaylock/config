@@ -1,0 +1,56 @@
+
+
+#misc
+ignore-empty-password
+font="MesloLGS Nerd Font Bold"
+
+#clock format
+clock
+timestr=%R
+datestr=%a, %e of %B
+
+#the wallpaper
+image=~/Pictures/Wallpapers/swaylock.jpg
+fade-in=1
+effect-blur=20x3
+
+#show indicator circle
+indicator
+indicator-radius=80
+indicator-thickness=7
+indicator-caps-lock
+
+#colors
+
+key-hl-color=ff7768eff
+separator-color=ff7768eff
+
+inside-color=313244
+inside-clear-color=ffffff00
+inside-caps-lock-color=ffffff
+inside-ver-color=73dacaff
+inside-wrong-color=73dacaff
+
+ring-color=313244
+ring-clear-color=ff7768eff
+ring-caps-lock-color=313244
+ring-ver-color=ff7768eff
+ring-wrong-color=73dacaff
+
+line-color=ff7768eff
+line-clear-color=73dacaff
+line-caps-lock-color=73dacaff
+line-ver-color=73dacaff
+line-wrong-color=313244
+
+text-color=ffffff
+text-clear-color=ffffff 
+text-ver-color=ffffff
+text-wrong-color=ffffff
+
+bs-hl-color=ffffff
+caps-lock-key-hl-color=ffffffFF
+caps-lock-bs-hl-color=ffffffFF
+text-caps-lock-color=313244
+
+
